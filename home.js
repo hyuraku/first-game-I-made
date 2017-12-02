@@ -2,7 +2,7 @@
 var time =0;
 var total=0;
 
-//押すと色を変える
+//Click to change the color.
 function changeColor(id) {
   var element = document.getElementById(id);
     if (time < 2) {
